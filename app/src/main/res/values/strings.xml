@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question1">In the children\'s book series, where is Paddington Bear originally from?</string>
+    <string name="answer_1a">India</string>
+    <string name="answer_1b">Canada</string>
+    <string name="answer_1c">Peru</string>
+    <string name="answer_1d">Iceland</string>
+
+    <string name="question2">What letter must appear at the beginning of the registration number of all non-military aircraft in the U.S.?</string>
+    <string name="answer_2a">N</string>
+    <string name="answer_2b">A</string>
+    <string name="answer_2c">U</string>
+    <string name="answer_2d">L</string>
+
+    <string name="question3">Select native metals</string>
+    <string name="answer_3a">Gold</string>
+    <string name="answer_3b">Iron</string>
+    <string name="answer_3c">Steel</string>
+    <string name="answer_3d">Copper</string>
+
+    <string name="question4">\"Nephelococcygia\" is the practice of doing what?</string>
+    <string name="answer_4a">Finding shapes in clouds</string>
+    <string name="answer_4b">Sleeping with your eyes open</string>
+    <string name="answer_4c">Breaking glass with your voice</string>
+    <string name="answer_4d">Swimming in freezing water</string>
+
+    <string name="question5">Correct the misspelling: \"ww.udazity.com\"</string>
+    <string name="question_5a">www.udacity.com</string>
+
+
+    <string name="question6">Which of the following men does not have a chemical element named for him?</string>
+    <string name="answer_6a">Albert Einstein</string>
+    <string name="answer_6b">Niels Bohr</string>
+    <string name="answer_6c">Isaac Newton</string>
+    <string name="answer_6d">Enrico Fermi</string>
+
+    <string name="question7">Which of these ships was not one of the three taken over by colonists during the Boston Tea Party?</string>
+    <string name="answer_7a">Eleanor</string>
+    <string name="answer_7b">Dartmouth</string>
+    <string name="answer_7c">Beaver</string>
+    <string name="answer_7d">William</string>
+
+    <string name="question8">Now used to refer to a cat, the word \"tabby\" is derived from the name of a district of what world capital?</string>
+    <string name="answer_8a">Baghdad</string>
+    <string name="answer_8b">New Delhi</string>
+    <string name="answer_8c">Cairo</string>
+    <string name="answer_8d">Moscow</string>
+
+    <string name="question9">Which insect shorted out an early supercomputer and inspired the term \"computer bug?\"</string>
+    <string name="answer_9a">Moth</string>
+    <string name="answer_9b">Roach</string>
+    <string name="answer_9c">Fly</string>
+    <string name="answer_9d">Japanese beetle</string>
+    <string name="title">Who Wants To Be A Millionaire</string>
+    <string name="name_btn1">reset</string>
+    <string name="name_btn2">result</string>
+    <string name="toast_blocked">You have already tried</string>
+
+
+</resources>
