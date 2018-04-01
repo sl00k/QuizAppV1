@@ -7,4 +7,5 @@
     <color name="white">#ffffff</color>
     <color name="correct">#008744</color>
     <color name="standard">#ffa700</color>
+    <color name="textColor">#000000</color>
 </resources>
